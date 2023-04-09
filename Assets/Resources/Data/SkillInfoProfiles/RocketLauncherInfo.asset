@@ -1,0 +1,204 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2fa2b5d6de94fe98f694e548aa82756, type: 3}
+  m_Name: RocketLauncherInfo
+  m_EditorClassIdentifier: 
+  unlockPrice: 0
+  level: 1
+  rocketLauncherLevels:
+  - rocketLauncherLevelInfos:
+    - damage: 70
+      numOfRockets: 6
+      fireRate: 0.7
+      rocketSpeed: 4
+      blastRadius: 1
+      passiveTime: 9
+    - damage: 70
+      numOfRockets: 7
+      fireRate: 0.7
+      rocketSpeed: 4
+      blastRadius: 1.5
+      passiveTime: 8
+    - damage: 80
+      numOfRockets: 8
+      fireRate: 0.6
+      rocketSpeed: 4
+      blastRadius: 1.7
+      passiveTime: 8
+    - damage: 90
+      numOfRockets: 9
+      fireRate: 0.6
+      rocketSpeed: 5
+      blastRadius: 1.9
+      passiveTime: 7
+    - damage: 100
+      numOfRockets: 6
+      fireRate: 0.6
+      rocketSpeed: 5
+      blastRadius: 2
+      passiveTime: 7
+  - rocketLauncherLevelInfos:
+    - damage: 55
+      numOfRockets: 4
+      fireRate: 0.7
+      rocketSpeed: 5
+      blastRadius: 1
+      passiveTime: 9
+    - damage: 70
+      numOfRockets: 4
+      fireRate: 0.7
+      rocketSpeed: 5
+      blastRadius: 1.5
+      passiveTime: 8
+    - damage: 80
+      numOfRockets: 5
+      fireRate: 0.6
+      rocketSpeed: 5
+      blastRadius: 1.7
+      passiveTime: 8
+    - damage: 95
+      numOfRockets: 6
+      fireRate: 0.6
+      rocketSpeed: 5
+      blastRadius: 1.9
+      passiveTime: 7
+    - damage: 105
+      numOfRockets: 6
+      fireRate: 0.6
+      rocketSpeed: 5
+      blastRadius: 2
+      passiveTime: 7
+  - rocketLauncherLevelInfos:
+    - damage: 60
+      numOfRockets: 4
+      fireRate: 0.7
+      rocketSpeed: 5
+      blastRadius: 1
+      passiveTime: 9
+    - damage: 75
+      numOfRockets: 4
+      fireRate: 0.7
+      rocketSpeed: 5
+      blastRadius: 1.5
+      passiveTime: 8
+    - damage: 85
+      numOfRockets: 5
+      fireRate: 0.6
+      rocketSpeed: 5
+      blastRadius: 1.7
+      passiveTime: 8
+    - damage: 95
+      numOfRockets: 6
+      fireRate: 0.6
+      rocketSpeed: 5
+      blastRadius: 1.9
+      passiveTime: 7
+    - damage: 105
+      numOfRockets: 6
+      fireRate: 0.6
+      rocketSpeed: 5
+      blastRadius: 2
+      passiveTime: 7
+  - rocketLauncherLevelInfos:
+    - damage: 65
+      numOfRockets: 5
+      fireRate: 0.6
+      rocketSpeed: 6
+      blastRadius: 1.5
+      passiveTime: 9
+    - damage: 80
+      numOfRockets: 6
+      fireRate: 0.6
+      rocketSpeed: 6
+      blastRadius: 1.7
+      passiveTime: 8
+    - damage: 90
+      numOfRockets: 6
+      fireRate: 0.6
+      rocketSpeed: 6
+      blastRadius: 1.4
+      passiveTime: 8
+    - damage: 100
+      numOfRockets: 7
+      fireRate: 0.6
+      rocketSpeed: 6
+      blastRadius: 2
+      passiveTime: 7
+    - damage: 110
+      numOfRockets: 7
+      fireRate: 0.5
+      rocketSpeed: 6
+      blastRadius: 2.2
+      passiveTime: 7
+  - rocketLauncherLevelInfos:
+    - damage: 70
+      numOfRockets: 6
+      fireRate: 0.6
+      rocketSpeed: 6
+      blastRadius: 1.5
+      passiveTime: 8
+    - damage: 80
+      numOfRockets: 6
+      fireRate: 0.6
+      rocketSpeed: 6
+      blastRadius: 1.7
+      passiveTime: 8
+    - damage: 95
+      numOfRockets: 7
+      fireRate: 0.6
+      rocketSpeed: 6
+      blastRadius: 1.9
+      passiveTime: 7
+    - damage: 110
+      numOfRockets: 7
+      fireRate: 0.6
+      rocketSpeed: 6
+      blastRadius: 2
+      passiveTime: 7
+    - damage: 120
+      numOfRockets: 7
+      fireRate: 0.5
+      rocketSpeed: 6
+      blastRadius: 2.2
+      passiveTime: 7
+  - rocketLauncherLevelInfos:
+    - damage: 80
+      numOfRockets: 6
+      fireRate: 0.6
+      rocketSpeed: 6
+      blastRadius: 1.5
+      passiveTime: 8
+    - damage: 90
+      numOfRockets: 6
+      fireRate: 0.6
+      rocketSpeed: 6
+      blastRadius: 1.7
+      passiveTime: 7
+    - damage: 100
+      numOfRockets: 7
+      fireRate: 0.6
+      rocketSpeed: 6
+      blastRadius: 1.9
+      passiveTime: 7
+    - damage: 110
+      numOfRockets: 7
+      fireRate: 0.6
+      rocketSpeed: 6
+      blastRadius: 2
+      passiveTime: 7
+    - damage: 120
+      numOfRockets: 8
+      fireRate: 0.5
+      rocketSpeed: 6
+      blastRadius: 2.2
+      passiveTime: 7
+  priceList: 581b0000401f000010270000b036000050460000f0550000
